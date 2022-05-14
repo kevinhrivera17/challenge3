@@ -57,7 +57,7 @@ const descriptionStyle = {
 }
 
 const docLink = {
-  text: "Documentation",
+  text: "Kevin Rivera TEST",
   url: "https://www.gatsbyjs.com/docs/",
   color: "#8954A8",
 }
